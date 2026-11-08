@@ -1,0 +1,149 @@
+{
+    "база_данных": "Текстовая копия Решутка",
+    "предметы": [
+        {
+            "название": "2 класс",
+            "ссылка": "https://reshutka.ru/2-klass/"
+        },
+        {
+            "название": "Математика",
+            "ссылка": "https://reshutka.ru/2-klass/matematika/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/2-klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/2-klass/english/"
+        },
+        {
+            "название": "Окружающий мир",
+            "ссылка": "https://reshutka.ru/2-klass/okruzhayuschiy-mir/"
+        },
+        {
+            "название": "3 класс",
+            "ссылка": "https://reshutka.ru/3-klass/"
+        },
+        {
+            "название": "Математика",
+            "ссылка": "https://reshutka.ru/3-klass/matematika/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/3-klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/3-klass/english/"
+        },
+        {
+            "название": "Окружающий мир",
+            "ссылка": "https://reshutka.ru/3-klass/okruzhayuschiy-mir/"
+        },
+        {
+            "название": "4 класс",
+            "ссылка": "https://reshutka.ru/4klass/"
+        },
+        {
+            "название": "Математика",
+            "ссылка": "https://reshutka.ru/4klass/matematika/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/4klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/4klass/english/"
+        },
+        {
+            "название": "Окружающий мир",
+            "ссылка": "https://reshutka.ru/4klass/okruzhayuschiy-mir/"
+        },
+        {
+            "название": "5 класс",
+            "ссылка": "https://reshutka.ru/5-klass/"
+        },
+        {
+            "название": "Математика",
+            "ссылка": "https://reshutka.ru/5-klass/matematika/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/5-klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/5-klass/english/"
+        },
+        {
+            "название": "Биология",
+            "ссылка": "https://reshutka.ru/5-klass/biology/"
+        },
+        {
+            "название": "История",
+            "ссылка": "https://reshutka.ru/5-klass/history/"
+        },
+        {
+            "название": "7 Класс",
+            "ссылка": "https://reshutka.ru/7-klass/"
+        },
+        {
+            "название": "Алгебра",
+            "ссылка": "https://reshutka.ru/7-klass/algebra/"
+        },
+        {
+            "название": "Геометрия",
+            "ссылка": "https://reshutka.ru/7-klass/geometriya/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/7-klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/7-klass/angliyskiy/"
+        },
+        {
+            "название": "Физика",
+            "ссылка": "https://reshutka.ru/7-klass/fizika/"
+        },
+        {
+            "название": "История",
+            "ссылка": "https://reshutka.ru/7-klass/history/"
+        },
+        {
+            "название": "Обществознание",
+            "ссылка": "https://reshutka.ru/7-klass/obshchestvo/"
+        },
+        {
+            "название": "8 класс",
+            "ссылка": "https://reshutka.ru/8klass/"
+        },
+        {
+            "название": "Алгебра",
+            "ссылка": "https://reshutka.ru/8klass/algebra/"
+        },
+        {
+            "название": "Геометрия",
+            "ссылка": "https://reshutka.ru/8klass/geometriya/"
+        },
+        {
+            "название": "Русский язык",
+            "ссылка": "https://reshutka.ru/8klass/russkiy/"
+        },
+        {
+            "название": "Английский язык",
+            "ссылка": "https://reshutka.ru/8klass/angliyskiy/"
+        },
+        {
+            "название": "История",
+            "ссылка": "https://reshutka.ru/8klass/history/"
+        },
+        {
+            "название": "География",
+            "ссылка": "https://reshutka.ru/8klass/geography/"
+        }
+    ]
+}
